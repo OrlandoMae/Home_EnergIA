@@ -3,9 +3,7 @@
 @author: 
     
 Orlando Maerini
-Simona Bevilacqua
-Gaetano Albano
-Ginevra Biagini
+
     
 """
 
